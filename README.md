@@ -9,3 +9,6 @@
 |*Hành khí*<br> 1. Hương phụ<br> 2. Mộc hương<br> 3. Trần bì<br> 4. ô dược<br> 5. Chỉ thực<br> 6. Chỉ xác<br> 7. Hậu phác|![](images/hanhkhi1.jpg)|
 |*Hoạt huyết*<br> 1. đan sâm<br> 2. ích mẫu<br> 3. Ngưu tất<br> 4. đào nhân<br> 5. Hồng hoa<br> 6. Xuyên khung|![](images/hoathuyet.jpg)|
 |*Thanh nhiệt lương huyết*<br> 1. Sinh địa<br> 2. Huyền sâm<br> 3. địa cốt bì<br> 4. Mẫu đơn bì<br> 5. Xích thược<br> 6. Rễ cỏ tranh|![](images/thanhnhietluonghuyet.jpg)|
+
+
+
